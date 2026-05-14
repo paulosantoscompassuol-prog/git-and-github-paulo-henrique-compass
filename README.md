@@ -5,7 +5,7 @@ Olá ! Me chamo Paulo e tenho 29 anos. Sou QA Trainee, formado em ADS. Com autom
 
 ## Dicionário Git do QA 📚
 - **Branch**: Uma ramificação do código onde os desenvolvedores podem trabalhar em novas funcionalidades ou correções sem afetar o código principal.
-- **Commit**: Uma unidade de mudança no código. Cada commit tem uma mensagem associada que descreve as mudanças feitas. Quando realizamos commit o código é salvo no repositório local.
+- **Commit**: Uma unidade de mudança no código. Cada commit tem uma mensagem associada que descreve as mudanças feitas. Quando realizamos commit a mudança é salva e está pronta para ser enviada para o repositório remoto.
 - **Merge**: O processo de integrar as mudanças de uma branch para outra, geralmente para a branch principal (main ou master).
 - **Pull**: Uma solicitação para revisar e mesclar as mudanças de uma branch para outra. É uma etapa importante para garantir a qualidade do código.
 - **Push**: Enviar as mudanças locais para o repositório remoto, tornando-as disponíveis para outros colaboradores.
