@@ -13,6 +13,6 @@ Olá ! Me chamo Paulo e tenho 29 anos. Sou QA Trainee, formado em ADS. Com autom
 ## Comandos Favoritos ❤
 - `git clone`: Clona um repositório remoto para o seu ambiente local.
 - `git status`: Mostra o status atual do repositório, incluindo arquivos modificados e não rastreados.
-- `git add`: Adiciona arquivos ao estágio para o próximo commit.
+- `git add`: Adiciona arquivos ao pacote para o próximo commit
 - `git commit -m "Mensagem"`: Cria um commit com uma mensagem descritiva.
 - `git push`: Envia os commits locais para o repositório remoto.
