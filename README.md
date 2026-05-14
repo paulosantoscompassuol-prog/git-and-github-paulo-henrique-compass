@@ -1,4 +1,4 @@
-# Introdução à Automação Web
+# Introdução à Automação Web 🤖
 
 ## Sobre Mim 🧑🏽‍💻
 Olá ! Me chamo Paulo e tenho 29 anos. Sou QA Trainee, formado em ADS. Com automação eu espero contribuir para o aumento da cobertura de testes automatizados e, consequentemente, para o aumento da qualidade do produto final.
